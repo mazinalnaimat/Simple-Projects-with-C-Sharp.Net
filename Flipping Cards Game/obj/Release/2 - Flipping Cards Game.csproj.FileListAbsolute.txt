@@ -1,0 +1,11 @@
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\bin\Release\2 - Flipping Cards Game.exe.config
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\bin\Release\2 - Flipping Cards Game.exe
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\bin\Release\2 - Flipping Cards Game.pdb
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\obj\Release\2 - Flipping Cards Game.csproj.AssemblyReference.cache
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\obj\Release\_2___Flipping_Cards_Game.Form1.resources
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\obj\Release\_2___Flipping_Cards_Game.Properties.Resources.resources
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\obj\Release\2 - Flipping Cards Game.csproj.GenerateResource.cache
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\obj\Release\2 - Flipping Cards Game.csproj.CoreCompileInputs.cache
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\obj\Release\2 - Flipping Cards Game.exe
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\obj\Release\2 - Flipping Cards Game.pdb
+F:\Learn Programming\Other Projects\2 - Flipping Cards Game\obj\Release\2 - Flipping Cards Game.exe.config
