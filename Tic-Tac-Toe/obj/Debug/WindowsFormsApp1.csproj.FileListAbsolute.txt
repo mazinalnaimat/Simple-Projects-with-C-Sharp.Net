@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSampleForm.resources
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\bin\Debug\WindowsFormsApp1.exe.config
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\bin\Debug\WindowsFormsApp1.exe
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\bin\Debug\WindowsFormsApp1.pdb
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\obj\Debug\WindowsFormsApp1.exe.config
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\obj\Debug\WindowsFormsApp1.frmSampleForm.resources
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\obj\Debug\WindowsFormsApp1.exe
+F:\Learn Programming\14_C# - Level 1\MySolve\Tic-Tac-Toe Second Once\obj\Debug\WindowsFormsApp1.pdb
