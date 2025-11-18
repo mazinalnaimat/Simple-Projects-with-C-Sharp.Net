@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\bin\x64\Release\Car Bluetooth V1.exe.config
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\bin\x64\Release\Car Bluetooth V1.exe
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\bin\x64\Release\Car Bluetooth V1.pdb
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car_Bluetooth_V1.Form1.resources
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car_Bluetooth_V1.Properties.Resources.resources
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.exe
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.pdb
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\bin\x64\Release\Car Bluetooth V1.exe.config
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\bin\x64\Release\Car Bluetooth V1.exe
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\bin\x64\Release\Car Bluetooth V1.pdb
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.exe.config
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car_Bluetooth_V1.Form1.resources
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car_Bluetooth_V1.Properties.Resources.resources
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.exe
+C:\Users\PC\Desktop\Other\Car Bluetooth V1\Car Bluetooth V1\obj\x64\Release\Car Bluetooth V1.pdb
