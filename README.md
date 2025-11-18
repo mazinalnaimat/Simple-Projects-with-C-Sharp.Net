@@ -8,23 +8,32 @@ Each project is available in its own branch.
 📌 Projects Included
 1. Tic-Tac-Toe Game
 
-Classic 3×3 Tic-Tac-Toe<img width="882" height="547" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/d895196d-53e7-438b-bb20-15e27b4c3665" />
+Classic 3×3 Tic-Tac-Toe
+<br>
+<img width="882" height="547" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/d895196d-53e7-438b-bb20-15e27b4c3665" />
 
 
 Player vs Player
 
 Win detection + Reset button
 Branch: tic-tac-toe
+<hr style="height:1px; border:none; background-color:#ccc; color:gray;">
+
 <br><br>
+
 2. Flip Number Game
-Focus on logic & UI controls<img width="1065" height="569" alt="flip" src="https://github.com/user-attachments/assets/037fb8bb-94a9-4d76-bb28-56ec441bac44" />
+Focus on logic & UI controls
+<br>
+<img width="1065" height="569" alt="flip" src="https://github.com/user-attachments/assets/037fb8bb-94a9-4d76-bb28-56ec441bac44" />
 
 A small puzzle game where you flip numbers to match a target
 
 
 Branch: flip-numbers
+<hr style="height:1px; border:none; background-color:#ccc; color:gray;">
 <br><br>
 3. Bluetooth Arduino Car Controller
+<br>
 <img width="1282" height="902" alt="car control interface" src="https://github.com/user-attachments/assets/1b65ce37-a542-4f2c-a32a-237b621c2b8e" />
 
 WinForms interface to control a robot car
