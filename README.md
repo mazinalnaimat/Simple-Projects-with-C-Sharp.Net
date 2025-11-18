@@ -3,6 +3,7 @@
 This repository contains a collection of small beginner-friendly C# WinForms projects that I created to learn and practice UI design, game logic, and hardware communication.
 
 Each project is available in its own branch.
+<hr style="height:2px; border:none; background-color:#ccc;">
 
 📌 Projects Included
 1. Tic-Tac-Toe Game
@@ -29,6 +30,7 @@ Uses Bluetooth serial communication
 
 Arrow buttons + speed control
 Branch: arduino-bluetooth-car
+<hr style="height:2px; border:none; background-color:#ccc;">
 
 🚀 How to Download a Project
 
@@ -37,6 +39,7 @@ Click the branch dropdown
 Select the project branch
 
 Download the project as ZIP or clone
+<hr style="height:2px; border:none; background-color:#ccc;">
 
 🛠️ Technologies
 
