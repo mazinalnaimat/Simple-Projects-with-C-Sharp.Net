@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\Debug\Car Bluetooth V1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\Debug\Car Bluetooth V1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\Debug\Car_Bluetooth_V1.Properties.Resources.resources
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\Debug\Car Bluetooth V1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\Debug\Car Bluetooth V1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\bin\Debug\Car Bluetooth V1.exe.config
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\bin\Debug\Car Bluetooth V1.exe
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\bin\Debug\Car Bluetooth V1.pdb
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\Debug\Car Bluetooth V1.exe
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\Debug\Car Bluetooth V1.pdb
+C:\Users\PC\Desktop\Car Bluetooth V1\Car Bluetooth V1\obj\Debug\Car_Bluetooth_V1.Form1.resources
